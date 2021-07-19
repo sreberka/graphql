@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+*.log.0
+*.log.1
+npm-debug.log*
+yarn.lock
+
+# Dependency directories
+node_modules
+
+### OSX ###
+*.DS_Store
+**/.DS_Store
+.DS_Store
+
+# IDEA files
+*.iml
+.idea
+.idea/
